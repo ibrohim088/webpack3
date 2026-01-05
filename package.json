@@ -36,6 +36,7 @@
   "dependencies": {
     "copy-webpack-plugin": "^13.0.0",
     "focus-visible": "^5.2.1",
+    "node": "^25.1.0",
     "normalize.css": "^8.0.1"
   }
 }
